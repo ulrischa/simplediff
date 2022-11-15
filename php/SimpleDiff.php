@@ -122,3 +122,6 @@ public function unchanged_only() {
 }
 
 }
+
+//$d = new SimpleDiff($old, $new);
+//var_dump($d->inserted_only());
